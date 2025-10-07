@@ -16,4 +16,4 @@
    
    O(n!)
 
-   I also use recursive alghoritm, it has the same O (as a 2nd code).
+   I solved this task by using sets.
