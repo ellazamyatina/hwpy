@@ -1,0 +1,14 @@
+[tool.ruff.lint]
+extend-select = [
+   "F",
+    "W",
+    "E",
+    "N",
+    "UP",
+    "C4",
+    "FA",
+    "ISC",
+    "ICN",
+    "RET",
+    "SIM",
+]
