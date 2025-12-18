@@ -19,4 +19,4 @@ jobs:
           ruff check --output-format=github
       - name: Run unit-tests
         run: |
-          python -m pytest test/*
+          python -m pytest Tests/*
